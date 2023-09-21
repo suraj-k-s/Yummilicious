@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160065678887",
+    "project_id": "yummilicious-2023",
+    "storage_bucket": "yummilicious-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160065678887:android:89ef08f8b190115ac66802",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4jiZnY3DRirqKI7PHJboHISeoXXC5uew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
